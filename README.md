@@ -137,9 +137,4 @@ Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years ol
 ### 🎧 Now Playing
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=24e316&bar_color_cover=true">
-  </a>
-</p>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=24e316&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
