@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Java+%7C+JavaScript+%7C+SQL;Full-Stack+and+Dados" />
 </p>
 
-I have a degree in Systems Analysis and Development and I am continuously improving my skills in software development, with a focus on back-end development, programming logic, and data.
+I have a degree in Systems Analysis and Development and I am continuously improving my skills in software development, with a focus on full-stack development, programming logic, and data.
 
 ---
 
