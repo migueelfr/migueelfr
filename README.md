@@ -127,6 +127,9 @@ Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years ol
   
 </p>
 
+<br/>
+<br/>
+
 ### 🎧 **Now Playing**
 
 <p align="center">
