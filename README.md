@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miguel Vins
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Java+%7C+JavaScript+%7C+SQL;Front-end+e+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Java+%7C+JavaScript+%7C+SQL;Full-Stack+e+Dados" />
 </p>
 
 I have a degree in Systems Analysis and Development and I am continuously improving my skills in software development, with a focus on back-end development, programming logic, and data.
