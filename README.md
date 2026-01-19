@@ -27,7 +27,7 @@ I have a degree in Systems Analysis and Development and I am continuously improv
         <img 
             alt="Seguidores" 
             title="Me siga no Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-Miguel%20Frederico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-frederico-877080276/"
+            src="https://img.shields.io/badge/Miguel%20Frederico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-frederico-877080276/"
         />
     </a>
 </p>
