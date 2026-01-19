@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Miguel Vins
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Java+%7C+JavaScript+%7C+SQL;Full-Stack+and+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Developer+in+Training;Java+%7C+JavaScript+%7C+SQL;Full-Stack+and+Data" />
 </p>
 
-I have a degree in Systems Analysis and Development and I am continuously improving my skills in software development, with a focus on full-stack development, programming logic, and data.
+Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years old and currently live in Brazil, the country where I was born and raised. I have a degree in Systems Analysis and Development, and I'm new to programming, continuously seeking to improve my software development skills, focusing on full-stack development, programming logic, and data.
 
 ---
 
