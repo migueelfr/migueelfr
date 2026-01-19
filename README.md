@@ -117,26 +117,17 @@ Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years ol
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=migueelfr&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=4eb162&bar_color_cover=false">
-  </a>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueelfr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-  <img
   
-      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=4eb162&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&redirect=true)
-
-  />
-
-</p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&redirect=true">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y1mk26mcnue4jawwhv7diusm5&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=4eb162&bar_color_cover=false">
   </a>
+
 </p>
+
