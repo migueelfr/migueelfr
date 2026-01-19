@@ -8,29 +8,17 @@ I have a degree in Systems Analysis and Development and I am continuously improv
 
 ---
 
-<p align="left">
-    <a href="https://github.com/https://github.com/migueelfr?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/migueelfr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/migueelfr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/migueelfr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/miguel-frederico-877080276/">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no Linkedin" 
-            src="https://img.shields.io/badge/Miguel%20Frederico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-frederico-877080276/"
-        />
-    </a>
-</p>
+## 📬 Where to find me
+<div style="display: flex; gap: 10px;">
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:miguelfrederico3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/miguel-frederico-877080276/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/miguelvins/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/553198871063)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/migueelfr_)
+
+</div>
+
 
 ---
 
