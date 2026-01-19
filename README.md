@@ -107,6 +107,8 @@ Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years ol
 - 🧪 **Load Testing with JMeter** – Simulation of multiple concurrent users  
 - ⏱️ **Java Stopwatch** – Simple application focused on logic and time control
 
+  ---
+  
 ### 📊 Estatísticas
 
 <p>
@@ -127,6 +129,9 @@ Hello! I'm Miguel Frederico, better known by my nickname "Vins". I'm 21 years ol
   
 </p>
 
+---
+
+<br clear="both">
 
 ### 🎧 **Now Playing**
 
